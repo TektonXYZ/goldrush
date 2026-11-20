@@ -1,0 +1,12 @@
+{
+  "_": "Shared by tex.mjs (paints the textures) and build.py (projects them). Design metres, Blender Z-up, the bust faces -Y. The face and shirt textures are front (planar, along Y) projections of these windows.",
+  "face": { "cx": 0.0, "z0": 1.10, "size": 1.30, "px": 2048 },
+  "shirt": { "cx": 0.0, "z0": 0.22, "size": 1.40, "px": 2048 },
+  "band": { "w": 2048, "h": 336, "repeats": 4 },
+  "colors": {
+    "skin": "#e0c5a2",
+    "shirt": "#5d51a0",
+    "text": "#f5f2f8",
+    "hair": "#f39ac5"
+  }
+}
