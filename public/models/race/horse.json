@@ -1,0 +1,91 @@
+{
+  "trisTotal": 13566,
+  "bones": 58,
+  "facing": "+Z",
+  "units": "metres; y up; x = horse's left side; origin on the ground under the girth",
+  "clips": {
+    "Gallop": {
+      "duration": 0.4167,
+      "strideLength": 7.0,
+      "fps": 60,
+      "footfalls": "transverse gallop, right lead: LH 0.00, RH 0.10, LF 0.29, RF 0.43 (of the cycle), suspension 0.62-1.00"
+    },
+    "Canter": {
+      "duration": 0.6,
+      "strideLength": 3.6,
+      "fps": 60,
+      "footfalls": "right lead: LH 0.00, RH 0.20 + LF 0.24, RF 0.42, suspension 0.78-1.00"
+    },
+    "Walk": {
+      "duration": 1.1,
+      "strideLength": 1.8,
+      "fps": 60,
+      "footfalls": "LH 0.00, LF 0.25, RH 0.50, RF 0.75"
+    },
+    "Idle": {
+      "duration": 4.0,
+      "fps": 60
+    }
+  },
+  "landmarks": {
+    "withersY": 1.6372,
+    "kneeY": 0.49,
+    "hockY": 0.55,
+    "fetlockY": 0.175,
+    "hindFetlockY": 0.185,
+    "coronetY": 0.077,
+    "muzzle": [
+      0.0,
+      1.4127,
+      1.205
+    ],
+    "eye": [
+      0.091,
+      1.7824,
+      0.9525
+    ],
+    "pollY": 1.9815,
+    "tailRoot": [
+      0.0,
+      1.5,
+      -1.15
+    ],
+    "girthZ": [
+      -0.107,
+      -0.043
+    ],
+    "frontHoofZ": 0.235,
+    "hindHoofZ": -1.02,
+    "bodyHalfWidth": 0.285,
+    "frontLegX": 0.13,
+    "hindLegX": 0.13,
+    "notes": "y values are bind-pose heights of joint centres; girthZ = the girth strap's band along z; hoof Z = centre of the ground footprint; legs at x = +-0.13"
+  },
+  "uv": {
+    "saddlecloth": "Two side panels, each with its own uv in [0,1]^2, upright and unmirrored as seen from that side: v = 0 at the bottom hem, 1 at the spine; u runs left-to-right for the viewer (left panel x>0: u grows towards the tail; right panel: towards the head). The saddle flap and the rider's boot cover roughly v > 0.35 for u < 0.6 (left) / u > 0.4 (right); a race number reads well centred at about (0.80, 0.42) on the left panel and (0.20, 0.42) on the right.",
+    "jockey_silks": "TEXCOORD_0 (three.js 'uv'): torso = cylinder round the spine, u = 0 at the back centre, 0.25 left side, 0.5 chest centre, 0.75 right side, v = 0 at the waist to 1 at the collar. Sleeves: u round the arm (0 = top of the arm), v = 0 at the shoulder seam to 1 at the cuff. Torso and sleeves each span [0,1]^2; TEXCOORD_1 ('uv1') .x tells them apart: 0 = torso, 1 = left sleeve, 2 = right sleeve.",
+    "jockey_cap": "u round the head (0 = back, 0.25 = left, 0.5 = front over the peak, 0.75 = right), v = 0 at the brim to 1 at the crown button; the peak (visor) uses v in [0, 0.04]."
+  },
+  "meshes": {
+    "horse_body": "coat only, COLOR_0 = baked AO (greyscale)",
+    "horse_parts": "hooves, eyes, mane, forelock, tail",
+    "tack": "saddlecloth, saddle, girth, stirrup leathers + irons, bridle, bit, reins",
+    "jockey": "rider body (silks, breeches, boots, skin)",
+    "jockey_gear": "cap cover, goggles, whip (whip uses jockey_boots)"
+  },
+  "materials": [
+    "horse_coat",
+    "horse_hair",
+    "horse_hoof",
+    "horse_eye",
+    "tack",
+    "tack_metal",
+    "saddlecloth",
+    "jockey_silks",
+    "jockey_cap",
+    "jockey_breeches",
+    "jockey_boots",
+    "jockey_skin",
+    "jockey_goggles"
+  ]
+}
