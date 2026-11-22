@@ -1,0 +1,1268 @@
+{
+ "sets": {
+  "rock": {
+   "files": {
+    "albedo": "textures/rock/albedo.webp",
+    "normal": "textures/rock/normal.webp",
+    "orm": "textures/rock/orm.webp",
+    "albedo_1k": "textures/rock/albedo_1k.webp",
+    "normal_1k": "textures/rock/normal_1k.webp"
+   },
+   "bytes": 2490134,
+   "tileMetres": 2.7,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "rock, cliff (generic warm fractured rock face)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "rock_face_03",
+    "name": "Rock Face 03",
+    "url": "https://polyhaven.com/a/rock_face_03",
+    "authors": [
+     "Dario Barresi",
+     "Rico Cilliers"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rock_dark": {
+   "files": {
+    "albedo": "textures/rock_dark/albedo.webp",
+    "normal": "textures/rock_dark/normal.webp",
+    "orm": "textures/rock_dark/orm.webp",
+    "albedo_1k": "textures/rock_dark/albedo_1k.webp",
+    "normal_1k": "textures/rock_dark/normal_1k.webp"
+   },
+   "bytes": 1159788,
+   "tileMetres": 2.4,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "rock_dark, coal_ore (black stratified shale)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "dark_rock",
+    "name": "Dark Rock",
+    "url": "https://polyhaven.com/a/dark_rock",
+    "authors": [
+     "Amal Kumar"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rock_red": {
+   "files": {
+    "albedo": "textures/rock_red/albedo.webp",
+    "normal": "textures/rock_red/normal.webp",
+    "orm": "textures/rock_red/orm.webp",
+    "albedo_1k": "textures/rock_red/albedo_1k.webp",
+    "normal_1k": "textures/rock_red/normal_1k.webp"
+   },
+   "bytes": 3836788,
+   "tileMetres": 2.5,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "rock_red, iron_ore (rust-red desert rock)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Rock029",
+    "name": "Rock 029",
+    "url": "https://ambientcg.com/a/Rock029",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rock_pale": {
+   "files": {
+    "albedo": "textures/rock_pale/albedo.webp",
+    "normal": "textures/rock_pale/normal.webp",
+    "orm": "textures/rock_pale/orm.webp",
+    "albedo_1k": "textures/rock_pale/albedo_1k.webp",
+    "normal_1k": "textures/rock_pale/normal_1k.webp"
+   },
+   "bytes": 1603322,
+   "tileMetres": 1.8,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "rock_pale, silver_ore (pale granite)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "rock_boulder_dry",
+    "name": "Rock Boulder Dry",
+    "url": "https://polyhaven.com/a/rock_boulder_dry",
+    "authors": [
+     "Dimitrios Savva",
+     "Rico Cilliers"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rock_warm": {
+   "files": {
+    "albedo": "textures/rock_warm/albedo.webp",
+    "normal": "textures/rock_warm/normal.webp",
+    "orm": "textures/rock_warm/orm.webp",
+    "albedo_1k": "textures/rock_warm/albedo_1k.webp",
+    "normal_1k": "textures/rock_warm/normal_1k.webp"
+   },
+   "bytes": 4460128,
+   "tileMetres": 2.5,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "rock_warm, gold_ore (dark warm rock)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Rock033",
+    "name": "Rock 033",
+    "url": "https://ambientcg.com/a/Rock033",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "grass": {
+   "files": {
+    "albedo": "textures/grass/albedo.webp",
+    "normal": "textures/grass/normal.webp",
+    "orm": "textures/grass/orm.webp",
+    "albedo_1k": "textures/grass/albedo_1k.webp",
+    "normal_1k": "textures/grass/normal_1k.webp"
+   },
+   "bytes": 3901350,
+   "tileMetres": 2.5,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "grass (dry mountain meadow)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "grass_ground",
+    "name": "Grass Ground",
+    "url": "https://polyhaven.com/a/grass_ground",
+    "authors": [
+     "Charlotte Baglioni"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "gravel": {
+   "files": {
+    "albedo": "textures/gravel/albedo.webp",
+    "normal": "textures/gravel/normal.webp",
+    "orm": "textures/gravel/orm.webp",
+    "albedo_1k": "textures/gravel/albedo_1k.webp",
+    "normal_1k": "textures/gravel/normal_1k.webp"
+   },
+   "bytes": 3862200,
+   "tileMetres": 3,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "gravel (crushed rock floor)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "rocks_ground_09",
+    "name": "Rocks Ground 09",
+    "url": "https://polyhaven.com/a/rocks_ground_09",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "dirt_road": {
+   "files": {
+    "albedo": "textures/dirt_road/albedo.webp",
+    "normal": "textures/dirt_road/normal.webp",
+    "orm": "textures/dirt_road/orm.webp",
+    "albedo_1k": "textures/dirt_road/albedo_1k.webp",
+    "normal_1k": "textures/dirt_road/normal_1k.webp"
+   },
+   "bytes": 4346420,
+   "tileMetres": 4,
+   "resolution": 2048,
+   "lowResolution": 1024,
+   "neutral": null,
+   "use": "dirt_road (dry stony ground)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "dry_ground_rocks",
+    "name": "Dry Ground Rocks",
+    "url": "https://polyhaven.com/a/dry_ground_rocks",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "dirt": {
+   "files": {
+    "albedo": "textures/dirt/albedo.webp",
+    "normal": "textures/dirt/normal.webp",
+    "orm": "textures/dirt/orm.webp"
+   },
+   "bytes": 1348590,
+   "tileMetres": 1.3,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "dirt (dry compacted soil)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "brown_mud_dry",
+    "name": "Brown Mud Dry",
+    "url": "https://polyhaven.com/a/brown_mud_dry",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "forest_floor": {
+   "files": {
+    "albedo": "textures/forest_floor/albedo.webp",
+    "normal": "textures/forest_floor/normal.webp",
+    "orm": "textures/forest_floor/orm.webp"
+   },
+   "bytes": 1419616,
+   "tileMetres": 1.5,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "forest_floor (pine litter)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "forest_leaves_04",
+    "name": "Forest Leaves 04",
+    "url": "https://polyhaven.com/a/forest_leaves_04",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "timber": {
+   "files": {
+    "albedo": "textures/timber/albedo.webp",
+    "normal": "textures/timber/normal.webp",
+    "orm": "textures/timber/orm.webp"
+   },
+   "bytes": 750740,
+   "tileMetres": 0.7,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "wood_timber (rough-sawn grain, seamless)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Wood073",
+    "name": "Wood 073",
+    "url": "https://ambientcg.com/a/Wood073",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "planks": {
+   "files": {
+    "albedo": "textures/planks/albedo.webp",
+    "normal": "textures/planks/normal.webp",
+    "orm": "textures/planks/orm.webp"
+   },
+   "bytes": 236558,
+   "tileMetres": 2,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "wood_planks (weathered boards)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "weathered_planks",
+    "name": "Weathered Planks",
+    "url": "https://polyhaven.com/a/weathered_planks",
+    "authors": [
+     "Dario Barresi",
+     "Dimitrios Savva"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "wood_dark": {
+   "files": {
+    "albedo": "textures/wood_dark/albedo.webp",
+    "normal": "textures/wood_dark/normal.webp",
+    "orm": "textures/wood_dark/orm.webp"
+   },
+   "bytes": 830878,
+   "tileMetres": 0.7,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "wood_dark (dark rough grain)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Wood077",
+    "name": "Wood 077",
+    "url": "https://ambientcg.com/a/Wood077",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "painted_wood": {
+   "files": {
+    "albedo": "textures/painted_wood/albedo.webp",
+    "normal": "textures/painted_wood/normal.webp",
+    "orm": "textures/painted_wood/orm.webp"
+   },
+   "bytes": 284178,
+   "tileMetres": 1.6,
+   "resolution": 1024,
+   "neutral": "luma",
+   "use": "wood_painted_* (tinted paint, bare wood shows through)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "distressed_painted_planks",
+    "name": "Distressed Painted Planks",
+    "url": "https://polyhaven.com/a/distressed_painted_planks",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "bark": {
+   "files": {
+    "albedo": "textures/bark/albedo.webp",
+    "normal": "textures/bark/normal.webp",
+    "orm": "textures/bark/orm.webp"
+   },
+   "bytes": 765596,
+   "tileMetres": 2,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "bark (pine)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "pine_bark",
+    "name": "Pine Bark",
+    "url": "https://polyhaven.com/a/pine_bark",
+    "authors": [
+     "Dimitrios Savva"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "paint": {
+   "files": {
+    "albedo": "textures/paint/albedo.webp",
+    "normal": "textures/paint/normal.webp",
+    "orm": "textures/paint/orm.webp"
+   },
+   "bytes": 499894,
+   "tileMetres": 1.6,
+   "resolution": 1024,
+   "neutral": "metal",
+   "use": "paint_* (tinted enamel, scratches + bare-steel chips)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "PaintedMetal004",
+    "name": "Painted Metal 004",
+    "url": "https://ambientcg.com/a/PaintedMetal004",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "steel": {
+   "files": {
+    "albedo": "textures/steel/albedo.webp",
+    "normal": "textures/steel/normal.webp",
+    "orm": "textures/steel/orm.webp"
+   },
+   "bytes": 293198,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "steel, cast_iron",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal052C",
+    "name": "Metal 052 C",
+    "url": "https://ambientcg.com/a/Metal052C",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "steel_dark": {
+   "files": {
+    "albedo": "textures/steel_dark/albedo.webp",
+    "normal": "textures/steel_dark/normal.webp",
+    "orm": "textures/steel_dark/orm.webp"
+   },
+   "bytes": 572674,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "steel_dark",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal046B",
+    "name": "Metal 046 B",
+    "url": "https://ambientcg.com/a/Metal046B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "galvanized": {
+   "files": {
+    "albedo": "textures/galvanized/albedo.webp",
+    "normal": "textures/galvanized/normal.webp",
+    "orm": "textures/galvanized/orm.webp"
+   },
+   "bytes": 806726,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "galvanized (zinc spangle)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal039",
+    "name": "Metal 039",
+    "url": "https://ambientcg.com/a/Metal039",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "smudge": {
+   "files": {
+    "albedo": "textures/smudge/albedo.webp",
+    "normal": "textures/smudge/normal.webp",
+    "orm": "textures/smudge/orm.webp"
+   },
+   "bytes": 39414,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": "all",
+   "use": "chrome, brass, gold (smudged polished metal; neutral so the colour is the F0)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal049B",
+    "name": "Metal 049 B",
+    "url": "https://ambientcg.com/a/Metal049B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "copper": {
+   "files": {
+    "albedo": "textures/copper/albedo.webp",
+    "normal": "textures/copper/normal.webp",
+    "orm": "textures/copper/orm.webp"
+   },
+   "bytes": 715046,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": "all",
+   "use": "copper (dirty; neutral so the colour is the F0)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal047B",
+    "name": "Metal 047 B",
+    "url": "https://ambientcg.com/a/Metal047B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "aluminium": {
+   "files": {
+    "albedo": "textures/aluminium/albedo.webp",
+    "normal": "textures/aluminium/normal.webp",
+    "orm": "textures/aluminium/orm.webp"
+   },
+   "bytes": 44590,
+   "tileMetres": 1,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "aluminium",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Metal050B",
+    "name": "Metal 050 B",
+    "url": "https://ambientcg.com/a/Metal050B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rust": {
+   "files": {
+    "albedo": "textures/rust/albedo.webp",
+    "normal": "textures/rust/normal.webp",
+    "orm": "textures/rust/orm.webp"
+   },
+   "bytes": 548350,
+   "tileMetres": 2.2,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "rust",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "rust_coarse_01",
+    "name": "Rust Coarse 01",
+    "url": "https://polyhaven.com/a/rust_coarse_01",
+    "authors": [
+     "Dimitrios Savva",
+     "Rico Cilliers"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "corrugated": {
+   "files": {
+    "albedo": "textures/corrugated/albedo.webp",
+    "normal": "textures/corrugated/normal.webp",
+    "orm": "textures/corrugated/orm.webp"
+   },
+   "bytes": 625882,
+   "tileMetres": 1.8,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "corrugated (weathered galvanized sheet)",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "worn_corrugated_iron",
+    "name": "Worn Corrugated Iron",
+    "url": "https://polyhaven.com/a/worn_corrugated_iron",
+    "authors": [
+     "Jenelle van Heerden",
+     "Dimitrios Savva"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "concrete": {
+   "files": {
+    "albedo": "textures/concrete/albedo.webp",
+    "normal": "textures/concrete/normal.webp",
+    "orm": "textures/concrete/orm.webp"
+   },
+   "bytes": 695496,
+   "tileMetres": 2,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "concrete",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "concrete_floor_02",
+    "name": "Concrete Floor 02",
+    "url": "https://polyhaven.com/a/concrete_floor_02",
+    "authors": [
+     "Rob Tuytel"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "brick": {
+   "files": {
+    "albedo": "textures/brick/albedo.webp",
+    "normal": "textures/brick/normal.webp",
+    "orm": "textures/brick/orm.webp"
+   },
+   "bytes": 855100,
+   "tileMetres": 2,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "brick",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "brick_wall_02",
+    "name": "Brick Wall 02",
+    "url": "https://polyhaven.com/a/brick_wall_02",
+    "authors": [
+     "Dimitrios Savva"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "shingle": {
+   "files": {
+    "albedo": "textures/shingle/albedo.webp",
+    "normal": "textures/shingle/normal.webp",
+    "orm": "textures/shingle/orm.webp"
+   },
+   "bytes": 497006,
+   "tileMetres": 1.4,
+   "resolution": 1024,
+   "neutral": null,
+   "use": "roof_shingle (weathered wood shakes)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "WoodSiding013",
+    "name": "Wood Siding 013",
+    "url": "https://ambientcg.com/a/WoodSiding013",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "canvas": {
+   "files": {
+    "albedo": "textures/canvas/albedo.webp",
+    "normal": "textures/canvas/normal.webp",
+    "orm": "textures/canvas/orm.webp"
+   },
+   "bytes": 81326,
+   "tileMetres": 0.6,
+   "resolution": 512,
+   "neutral": "all",
+   "use": "canvas (tinted)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Fabric001",
+    "name": "Fabric 001",
+    "url": "https://ambientcg.com/a/Fabric001",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "hivis": {
+   "files": {
+    "albedo": "textures/hivis/albedo.webp",
+    "normal": "textures/hivis/normal.webp",
+    "orm": "textures/hivis/orm.webp"
+   },
+   "bytes": 190268,
+   "tileMetres": 0.4,
+   "resolution": 512,
+   "neutral": "all",
+   "use": "fabric_hivis (polyester mesh, tinted fluorescent)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Fabric061",
+    "name": "Fabric 061",
+    "url": "https://ambientcg.com/a/Fabric061",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "shirt": {
+   "files": {
+    "albedo": "textures/shirt/albedo.webp",
+    "normal": "textures/shirt/normal.webp",
+    "orm": "textures/shirt/orm.webp"
+   },
+   "bytes": 358972,
+   "tileMetres": 0.4,
+   "resolution": 512,
+   "neutral": "all",
+   "use": "fabric_shirt (tintable cotton weave)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Fabric030",
+    "name": "Fabric 030",
+    "url": "https://ambientcg.com/a/Fabric030",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "denim": {
+   "files": {
+    "albedo": "textures/denim/albedo.webp",
+    "normal": "textures/denim/normal.webp",
+    "orm": "textures/denim/orm.webp"
+   },
+   "bytes": 160536,
+   "tileMetres": 0.3,
+   "resolution": 512,
+   "neutral": null,
+   "use": "fabric_denim",
+   "source": {
+    "site": "Poly Haven",
+    "asset": "denim_fabric_03",
+    "name": "Denim Fabric 03",
+    "url": "https://polyhaven.com/a/denim_fabric_03",
+    "authors": [
+     "colormass",
+     "Rico Cilliers"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "leather": {
+   "files": {
+    "albedo": "textures/leather/albedo.webp",
+    "normal": "textures/leather/normal.webp",
+    "orm": "textures/leather/orm.webp"
+   },
+   "bytes": 113098,
+   "tileMetres": 0.5,
+   "resolution": 512,
+   "neutral": null,
+   "use": "leather (worn boot/belt leather)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Leather014",
+    "name": "Leather 014",
+    "url": "https://ambientcg.com/a/Leather014",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "glove": {
+   "files": {
+    "albedo": "textures/glove/albedo.webp",
+    "normal": "textures/glove/normal.webp",
+    "orm": "textures/glove/orm.webp"
+   },
+   "bytes": 152386,
+   "tileMetres": 0.4,
+   "resolution": 512,
+   "neutral": null,
+   "use": "fabric_glove (crinkled work-glove leather)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Leather007",
+    "name": "Leather 007",
+    "url": "https://ambientcg.com/a/Leather007",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "plastic": {
+   "files": {
+    "albedo": "textures/plastic/albedo.webp",
+    "normal": "textures/plastic/normal.webp",
+    "orm": "textures/plastic/orm.webp"
+   },
+   "bytes": 53294,
+   "tileMetres": 1,
+   "resolution": 512,
+   "neutral": "all",
+   "use": "plastic_yellow, helmet_*, hose_* (tinted scratched plastic)",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Plastic013B",
+    "name": "Plastic 013 B",
+    "url": "https://ambientcg.com/a/Plastic013B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "plastic_black": {
+   "files": {
+    "albedo": "textures/plastic_black/albedo.webp",
+    "normal": "textures/plastic_black/normal.webp",
+    "orm": "textures/plastic_black/orm.webp"
+   },
+   "bytes": 24302,
+   "tileMetres": 1,
+   "resolution": 512,
+   "neutral": null,
+   "use": "plastic_black, cable",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Plastic012B",
+    "name": "Plastic 012 B",
+    "url": "https://ambientcg.com/a/Plastic012B",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  },
+  "rubber": {
+   "files": {
+    "albedo": "textures/rubber/albedo.webp",
+    "normal": "textures/rubber/normal.webp",
+    "orm": "textures/rubber/orm.webp"
+   },
+   "bytes": 167436,
+   "tileMetres": 0.75,
+   "resolution": 512,
+   "neutral": null,
+   "use": "rubber",
+   "source": {
+    "site": "ambientCG",
+    "asset": "Rubber004",
+    "name": "Rubber 004",
+    "url": "https://ambientcg.com/a/Rubber004",
+    "authors": [
+     "ambientCG (Lennart Demes)"
+    ],
+    "license": "CC0 1.0"
+   }
+  }
+ },
+ "_infos": {
+  "rock": {
+   "tile": 2.7,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#856b52",
+   "orm": [
+    0.915,
+    0.818,
+    0.005
+   ]
+  },
+  "rock_dark": {
+   "tile": 2.4,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#221d18",
+   "orm": [
+    0.897,
+    0.797,
+    0.003
+   ]
+  },
+  "rock_red": {
+   "tile": 2.5,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#7d5538",
+   "orm": [
+    0.894,
+    0.755,
+    0
+   ]
+  },
+  "rock_pale": {
+   "tile": 1.8,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#aa9e8f",
+   "orm": [
+    0.929,
+    0.633,
+    0.005
+   ]
+  },
+  "rock_warm": {
+   "tile": 2.5,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#322b24",
+   "orm": [
+    0.894,
+    0.698,
+    0
+   ]
+  },
+  "grass": {
+   "tile": 2.5,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#6f613f",
+   "orm": [
+    0.798,
+    0.937,
+    0.008
+   ]
+  },
+  "gravel": {
+   "tile": 3,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#867d74",
+   "orm": [
+    0.736,
+    0.877,
+    0.008
+   ]
+  },
+  "dirt_road": {
+   "tile": 4,
+   "res": 2048,
+   "low": 1024,
+   "albedo": "#997854",
+   "orm": [
+    0.463,
+    0.812,
+    0.011
+   ]
+  },
+  "dirt": {
+   "tile": 1.3,
+   "res": 1024,
+   "albedo": "#7a6144",
+   "orm": [
+    0.586,
+    0.527,
+    0.009
+   ]
+  },
+  "forest_floor": {
+   "tile": 1.5,
+   "res": 1024,
+   "albedo": "#866443",
+   "orm": [
+    0.598,
+    0.759,
+    0.014
+   ]
+  },
+  "timber": {
+   "tile": 0.7,
+   "res": 1024,
+   "albedo": "#6a5543",
+   "orm": [
+    0.774,
+    0.591,
+    0
+   ]
+  },
+  "planks": {
+   "tile": 2,
+   "res": 1024,
+   "albedo": "#51443b",
+   "orm": [
+    0.894,
+    0.737,
+    0.003
+   ]
+  },
+  "wood_dark": {
+   "tile": 0.7,
+   "res": 1024,
+   "albedo": "#453023",
+   "orm": [
+    0.715,
+    0.648,
+    0
+   ]
+  },
+  "painted_wood": {
+   "tile": 1.6,
+   "res": 1024,
+   "albedo": "#b5b3b0",
+   "orm": [
+    0.992,
+    0.857,
+    0.347
+   ],
+   "neutral": 0.6
+  },
+  "bark": {
+   "tile": 2,
+   "res": 1024,
+   "albedo": "#685442",
+   "orm": [
+    0.858,
+    0.707,
+    0.005
+   ]
+  },
+  "paint": {
+   "tile": 1.6,
+   "res": 1024,
+   "albedo": "#cbcbcb",
+   "orm": [
+    0.896,
+    0.439,
+    0.038
+   ],
+   "neutral": 0.5999
+  },
+  "steel": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#bec0c0",
+   "orm": [
+    0.973,
+    0.366,
+    0.986
+   ]
+  },
+  "steel_dark": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#3f3f40",
+   "orm": [
+    0.866,
+    0.354,
+    0.83
+   ]
+  },
+  "galvanized": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#7e8080",
+   "orm": [
+    0.973,
+    0.636,
+    1
+   ]
+  },
+  "smudge": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#cbcbcb",
+   "orm": [
+    0.987,
+    0.12,
+    0.999
+   ],
+   "neutral": 0.6
+  },
+  "copper": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#cacaca",
+   "orm": [
+    0.863,
+    0.447,
+    0.873
+   ],
+   "neutral": 0.5931
+  },
+  "aluminium": {
+   "tile": 1,
+   "res": 1024,
+   "albedo": "#f5f7f6",
+   "orm": [
+    0.99,
+    0.115,
+    1
+   ]
+  },
+  "rust": {
+   "tile": 2.2,
+   "res": 1024,
+   "albedo": "#653b21",
+   "orm": [
+    0.936,
+    0.777,
+    0.006
+   ]
+  },
+  "corrugated": {
+   "tile": 1.8,
+   "res": 1024,
+   "albedo": "#7a7876",
+   "orm": [
+    0.875,
+    0.617,
+    0.004
+   ]
+  },
+  "concrete": {
+   "tile": 2,
+   "res": 1024,
+   "albedo": "#7c725f",
+   "orm": [
+    0.827,
+    0.517,
+    0.005
+   ]
+  },
+  "brick": {
+   "tile": 2,
+   "res": 1024,
+   "albedo": "#a7967e",
+   "orm": [
+    0.869,
+    0.789,
+    0.005
+   ]
+  },
+  "shingle": {
+   "tile": 1.4,
+   "res": 1024,
+   "albedo": "#675946",
+   "orm": [
+    0.818,
+    0.658,
+    0
+   ]
+  },
+  "canvas": {
+   "tile": 0.6,
+   "res": 512,
+   "albedo": "#cbcbcb",
+   "orm": [
+    0.968,
+    0.807,
+    0
+   ],
+   "neutral": 0.6
+  },
+  "hivis": {
+   "tile": 0.4,
+   "res": 512,
+   "albedo": "#c8c8c8",
+   "orm": [
+    0.789,
+    0.839,
+    0
+   ],
+   "neutral": 0.5789
+  },
+  "shirt": {
+   "tile": 0.4,
+   "res": 512,
+   "albedo": "#cbcbcb",
+   "orm": [
+    0.922,
+    0.728,
+    0
+   ],
+   "neutral": 0.5985
+  },
+  "denim": {
+   "tile": 0.3,
+   "res": 512,
+   "albedo": "#3b5877",
+   "orm": [
+    0.939,
+    0.69,
+    0.232
+   ]
+  },
+  "leather": {
+   "tile": 0.5,
+   "res": 512,
+   "albedo": "#4f3633",
+   "orm": [
+    0.803,
+    0.549,
+    0
+   ]
+  },
+  "glove": {
+   "tile": 0.4,
+   "res": 512,
+   "albedo": "#402912",
+   "orm": [
+    0.894,
+    0.491,
+    0
+   ]
+  },
+  "plastic": {
+   "tile": 1,
+   "res": 512,
+   "albedo": "#cbcbcb",
+   "orm": [
+    0.969,
+    0.455,
+    0
+   ],
+   "neutral": 0.6
+  },
+  "plastic_black": {
+   "tile": 1,
+   "res": 512,
+   "albedo": "#2b2928",
+   "orm": [
+    0.986,
+    0.453,
+    0
+   ]
+  },
+  "rubber": {
+   "tile": 0.75,
+   "res": 512,
+   "albedo": "#2a2c32",
+   "orm": [
+    0.967,
+    0.591,
+    0
+   ]
+  }
+ },
+ "sky": {
+  "base": "hdri/sky",
+  "width": 4096,
+  "height": 2048,
+  "mLo": -10,
+  "mHi": 17,
+  "hdr": "hdri/table_mountain_2_puresky_2k.hdr",
+  "sun": {
+   "direction": [
+    0.6404,
+    0.1262,
+    0.7576
+   ],
+   "elevationDeg": 7.25,
+   "azimuthDeg": 49.79,
+   "color": "#ffedad",
+   "intensity": 3.878
+  },
+  "horizonSun": "#fff9cd",
+  "horizonAway": "#e8fff8",
+  "zenith": "#d2deff",
+  "facts": {
+   "sunIrradianceLuminance": 3.284,
+   "skyIrradianceHorizontal": 0.641,
+   "sunToSkyRatioOnGround": 0.647,
+   "horizonSunLinear": [
+    2.1236,
+    2.0092,
+    1.2966
+   ],
+   "horizonAwayLinear": [
+    0.3993,
+    0.4945,
+    0.4647
+   ],
+   "zenithLinear": [
+    0.0861,
+    0.0983,
+    0.1342
+   ],
+   "envClamp": 40
+  },
+  "files": {
+   "rgb": "hdri/sky_rgb.webp",
+   "multiplier": "hdri/sky_m.webp",
+   "hdr": "hdri/table_mountain_2_puresky_2k.hdr"
+  },
+  "encoding": "RGBM: hdr = rgb^2 * 2^(mix(mLo, mHi, m)); rgb lossy WebP (sqrt-encoded), m lossless WebP",
+  "directionConvention": "three.js world space, equirect u = atan(z, x)/2pi + 0.5, v = asin(y)/pi + 0.5, with scene.backgroundRotation = environmentRotation = 0",
+  "source": {
+   "site": "Poly Haven",
+   "asset": "table_mountain_2_puresky",
+   "name": "Table Mountain 2 (Pure Sky)",
+   "url": "https://polyhaven.com/a/table_mountain_2_puresky",
+   "authors": [
+    "Greg Zaal",
+    "Jarod Guest"
+   ],
+   "license": "CC0 1.0"
+  }
+ },
+ "generated": "2026-10-13T01:19:30.540Z",
+ "license": "All textures and the HDRI are CC0 1.0 (public domain): Poly Haven and ambientCG.",
+ "totalTextureMB": 38.79
+}
